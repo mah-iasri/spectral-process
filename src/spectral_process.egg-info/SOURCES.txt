@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/spectral_process/__init__.py
+src/spectral_process/_validation.py
+src/spectral_process/baseline.py
+src/spectral_process/derivatives.py
+src/spectral_process/normalization.py
+src/spectral_process/scatter.py
+src/spectral_process.egg-info/PKG-INFO
+src/spectral_process.egg-info/SOURCES.txt
+src/spectral_process.egg-info/dependency_links.txt
+src/spectral_process.egg-info/requires.txt
+src/spectral_process.egg-info/top_level.txt
+tests/test_core.py
