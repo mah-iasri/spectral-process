@@ -41,7 +41,7 @@ pip install spectral-process
 ### Import the package
 
 ```python
-from spectral_prep import (
+from spectral_process import (
     baseline_correct,
     apply_savitzky_golay_derivative,
     snv_transformation,
