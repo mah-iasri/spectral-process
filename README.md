@@ -27,7 +27,6 @@ git clone https://github.com/mah-iasri/spectral-process.git
 cd spectral-process
 pip install -e .
 ```
-
 **From PyPI (coming soon):**
 
 ```bash
