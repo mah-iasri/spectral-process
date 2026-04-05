@@ -10,7 +10,8 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [
-  {name = "Md Ashraful Haque"}
+  {name = "Md Ashraful Haque", email="ashrafulhaque664@gmail.com"},
+  {name = "Avijit Ghosh", email="avijitghosh19892@gmail.com"}
 ]
 keywords = [
   "spectroscopy",
