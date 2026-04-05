@@ -112,9 +112,7 @@ snv_spectra = snv_transformation(spectra)
 # Using sample standard deviation (ddof=1)
 snv_spectra = snv_transformation(spectra, ddof=1)
 ```
-
 ---
-
 ### 4. Unit Vector Normalization
 
 Scales each spectrum to unit L2 norm. Useful before applying machine learning models.
@@ -125,7 +123,6 @@ normalized = unit_vector_normalization(spectra)
 # Raise an error if any zero-norm spectra are found
 normalized = unit_vector_normalization(spectra, handle_zero='error')
 ```
-
 ---
 
 ### 5. Multiplicative Scatter Correction (MSC)
