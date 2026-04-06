@@ -259,7 +259,9 @@ This project is licensed under the MIT License — see the
 
 ---
 
-## Contributing
+[//]: # (## Contributing)
 
-Contributions are welcome! Please open an issue first to discuss any 
-proposed changes. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+[//]: # ()
+[//]: # (Contributions are welcome! Please open an issue first to discuss any )
+
+[//]: # (proposed changes. See [CONTRIBUTING.md]&#40;CONTRIBUTING.md&#41; for guidelines.)
