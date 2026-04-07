@@ -220,12 +220,16 @@ All functions expect:
 
 ---
 
-## Authors
+[//]: # (## Authors)
 
-| Name              | Affiliation                  | Contact                    |
-|-------------------|------------------------------|----------------------------|
-| Md Ashraful Haque | ICAR-IASRI, New Delhi, India | ashrafulhaque664@gmail.com |
-| Avijit Ghosh      | ICAR-IGFRI, Jhansi, India    | avijitghosh19892@gmail.com |
+[//]: # ()
+[//]: # (| Name              | Affiliation                  | Contact                    |)
+
+[//]: # (|-------------------|------------------------------|----------------------------|)
+
+[//]: # (| Md Ashraful Haque | ICAR-IASRI, New Delhi, India | ashrafulhaque664@gmail.com |)
+
+[//]: # (| Avijit Ghosh      | ICAR-IGFRI, Jhansi, India    | avijitghosh19892@gmail.com |)
 
 
 
@@ -236,7 +240,9 @@ If you use `spectral-process` in your research, please cite:
 ```bibtex
 @software{haque2026spectralprocess,
   author    = {Haque, Md Ashraful and 
-                Ghosh, Avijit},
+                Ghosh, Avijit and
+                Sachan, Harsh and
+                Kumari, Shalini},
   title     = {spectral-process: Python tools for spectral data preprocessing},
   year      = {2026},
   publisher = {GitHub},
@@ -246,7 +252,7 @@ If you use `spectral-process` in your research, please cite:
 
 Or in plain text:
 
-> Haque, M.A. & Ghosh, A. (2026). *spectral-process: Python tools for spectral data 
+> Haque, M.A., Ghosh, A., Sachan, H. & Kumari, S. (2026). *spectral-process: Python tools for spectral data 
 > preprocessing*. GitHub. https://github.com/mah-iasri/spectral-process
 
 ---
