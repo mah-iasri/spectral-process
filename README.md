@@ -155,6 +155,7 @@ from spectral_process import (
 
 # Load your spectral data (n_samples × n_wavelengths)
 spectra = np.load("nir_spectra.npy")   # shape: (100, 1050)
+## You can load your excel/CSV file using pandas
 
 # Step 1: Baseline correction
 spectra_bc = baseline_correct(spectra, lam=1e5, p=0.01, niter=10)
