@@ -178,7 +178,6 @@ print(spectra_ready.shape)  # (100, 1050)
 
 | Function | Description | Key Parameters |
 |----------|-------------|----------------|
-| `als(y, lam, p, niter)` | ALS baseline correction for a single spectrum | `lam`: smoothness; `p`: asymmetry |
 | `baseline_correct(spectra, lam, p, niter, return_baselines)` | ALS correction for multiple spectra | `return_baselines=True` to get baselines |
 
 ### Derivative Filtering
