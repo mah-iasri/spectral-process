@@ -147,7 +147,7 @@ msc_spectra, ref_used = multiplicative_scatter_correction(
 
 ```python
 import numpy as np
-from spectral_prep import (
+from spectral_process import (
     baseline_correct,
     apply_savitzky_golay_derivative,
     snv_transformation,
