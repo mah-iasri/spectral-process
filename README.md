@@ -253,7 +253,7 @@ If you use `spectral-process` in your research, please cite:
 Or in plain text:
 
 > Haque, M.A., Ghosh, A., Sachan, H. & Kumari, S. (2026). *spectral-process: Python tools for spectral data 
-> preprocessing*. GitHub. https://github.com/mah-iasri/spectral-process
+> preprocessing*. GitHub: https://github.com/mah-iasri/spectral-process and PyPi: https://pypi.org/project/spectral-process/
 
 ---
 
